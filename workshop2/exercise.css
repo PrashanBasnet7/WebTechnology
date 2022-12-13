@@ -1,0 +1,13 @@
+p:hover{
+    text-shadow: 4px 4px 16px blue;
+    word-spacing: ;
+    color:blueviolet;
+    background-color: silver;
+    font-size: 45;
+text-align: end;
+
+}
+
+body{
+    background-color: bisque;
+}
