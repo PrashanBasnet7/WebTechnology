@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0%;
+}
+.one {
+    background-color: rgb(9, 80, 9);
+
+}
+.one .conatiner{
+    background-color: rgb(11, 94, 11);
+}
+.one .venue{
+    margin: 275px 20px 10px 40px; /* margin Top Right Bottom Left */
+    /* margin: 10px 40px;  Top and Bottom, Right and left*/
+}
+.one h1{
+    font-size: 80px;
+    margin: 0px 0px 0px 70px;
+    width: fit-content;
+    color: white;
+} 
+.one h3{
+    margin: 0px 0px 0px 70px;
+    font-size: 25px;
+    color: white;
+    
+}
+.one img{
+    float: right;
+  margin: 0 0 300 0;
+  width: 43%;
+  height: 680px;
+}
+.one .cont{
+    text-align: right;
+}
+.one input{
+    margin: 30px 0px 10px 70px;
+    font-size: 28px;
+    background-color: rgba(255, 255, 0, 0.21);
+    color: black ;
+    font-weight: bold;
+    border-radius: 55px;
+}
+.one p{
+    margin-left: 35px;
+    font-size: 20px;
+    color: white;
+}
+.two{
+    background-color: rgb(58, 150, 150);
+}
+.two h1{
+    font-size: 85px;
+ max-width: 42%;
+    float: left;
+    margin: 5% 0% 5% 5%; 
+    color: white;
+}
+.two h3{
+    font-size:23px ;
+    float: right;
+    max-width: 25%;
+     margin: 7% 21% 0% 0%; 
+     color: white;
+}
+.two img{
+    width: 90%; 
+    text-align: center;
+    margin: 10px 70px 30px 70px ;
+    height: 300px;
+}
